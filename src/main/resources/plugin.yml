@@ -1,0 +1,12 @@
+name: multiworld
+version: 0.0.1
+api-version: 1.19
+main: de.rafael.plugins.multi.world.MultiWorld
+authors:
+  - HttpRafa
+commands:
+  world:
+    description: Manage your worlds
+    aliases:
+      - multiworld
+      - mw
